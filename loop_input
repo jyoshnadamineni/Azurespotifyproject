@@ -1,0 +1,29 @@
+[
+  {
+    "schems" : "dbo",
+    "table": "DimUser",
+    " cdc_col":"updated_at"
+     "from_date": ""
+ }
+
+  {
+    "schems" : "dbo",
+    "table": "DimTrack",
+    " cdc_col":"updated_at"
+     "from_date": ""
+ }
+
+{
+    "schems" : "dbo",
+    "table": "DimDate",
+    " cdc_col":"updated_at"
+     "from_date": ""
+ }
+
+{
+    "schems" : "dbo",
+    "table": "DimArtist",
+    " cdc_col":"updated_at"
+     "from_date": ""
+ }
+]
